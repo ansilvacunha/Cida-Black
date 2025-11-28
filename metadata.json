@@ -1,0 +1,8 @@
+{
+  "name": "Cida Black - Estilizador Neural",
+  "description": "Uma plataforma afrocêntrica de agendamento e visualização de estilos capilares utilizando IA Generativa.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
